@@ -7,12 +7,11 @@ const meta = {
 const introdata = {
     title: "I’m Sharon Espinoza",
     description: "Research Associate at Innovations for Poverty Action (IPA) Peru. I work on impact evaluation, field experiments and applied econometrics in Latin America.",
-    // TODO: replace with Sharon's photo (e.g. put it in /public and use "/foto.jpg")
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "/photos/portada.jpg",
 };
 
 // CV for the download button on Home. Put the PDF in /public with this name.
-const cvFile = ""; // set to "/CV_Sharon_Espinoza.pdf" once the PDF is in /public
+const cvFile = "/CV_Sharon_Espinoza_E.pdf";
 
 const dataabout = {
     title: "A bit about myself",
