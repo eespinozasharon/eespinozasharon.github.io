@@ -27,5 +27,3 @@ if (-not (git status --porcelain)) {
     }
 }
 
-Write-Host ""
-Read-Host "Presiona Enter para cerrar"
